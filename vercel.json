@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://tu-api-url.com/:path*"
+      "destination": "https://url-shortner-api-totl.onrender.com/:path*"
     }
   ],
   "headers": [
